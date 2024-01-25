@@ -1,0 +1,58 @@
+{
+  "productList": [
+    {
+      "productName": "Banana",
+      "category": "Fruits",
+      "freshness": "Brand New",
+      "price": 222,
+      "comment": "This ",
+      "date": "2024-01-23T23:00:00.000Z",
+      "id": "4c53"
+    },
+    {
+      "id": "269e",
+      "productName": "MAngo",
+      "category": "Fruits",
+      "freshness": "Second Hand",
+      "price": 22,
+      "comment": "This is Mango",
+      "date": "2024-01-25T23:00:00.000Z"
+    },
+    {
+      "productName": "Hysenn",
+      "category": "Fruits",
+      "freshness": "Refurbished",
+      "price": 10,
+      "comment": "This ",
+      "date": "2024-01-24T23:00:00.000Z",
+      "id": "1fd7"
+    },
+    {
+      "id": "5ea2",
+      "productName": "22",
+      "category": "Electronic",
+      "freshness": "Second Hand",
+      "price": 22,
+      "comment": "22",
+      "date": "2024-01-24T23:00:00.000Z"
+    },
+    {
+      "id": "75a8",
+      "productName": "333",
+      "category": "Electronic",
+      "freshness": "Refurbished",
+      "price": 2,
+      "comment": "22",
+      "date": "2024-01-08T23:00:00.000Z"
+    },
+    {
+      "productName": "ww",
+      "category": "Electronic",
+      "freshness": "Refurbished",
+      "price": 222,
+      "comment": "asdasdsad",
+      "date": "2024-01-24T23:00:00.000Z",
+      "id": "b615"
+    }
+  ]
+}
